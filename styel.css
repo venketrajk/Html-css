@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.header{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+li,ul{
+    display: inline;
+    cursor: pointer;
+    }
+li:hover {
+    color: violet;
+}
+
+
+
+.fooddesign{
+
+    padding: 20px;
+    text-align: center;
+    border-spacing: 50px;
+
+}
+
+
+.img1{
+
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 225px;
+    margin: 40px;
+}
+.img1:hover{
+    cursor: grab;
+    background-color: beige;
+    
+}
+
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+h2{
+    display: inline-block;
+    width: 70px;
+}
+input{
+    display: inline-block;
+    width: 200px;
+}
+
+
+.cont{
+    display: inline-block;
+    padding: 10px;
+
+}
+.cont:hover{
+    cursor: default;
+    background-color: ;
+}
+
+.last{
+    background-color: beige;
+    color: black;
+    display: inline-block;
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.last:hover{
+    background-color: red;
+    cursor: pointer;
+}
